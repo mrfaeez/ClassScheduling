@@ -54,7 +54,7 @@ Result after FCFS:
 | CSC 4101    | 8          | 15           | 23              |
 | CSC 4501    | 4          | 23           | 27              |
 
-**Average waiting time : 12
+**Average waiting time : 12 <br />
 **Average turnaround time : 18.75
 
 ## Priority Scheduling
@@ -68,7 +68,7 @@ Result after Priority Scheduling:
 | CSC 4101    | 10         | 12           | 1        | 22              |
 | CSC 4501    | 5          | 22           | 0        | 27              |
 
-**Average waiting time : 10.5
+**Average waiting time : 10.5 <br />
 **Average turnaround time : 17.25
 
 ## SJF
@@ -82,7 +82,7 @@ Result after SJF Scheduling:
 | CSC 4101    | 8          | 9            | 17              |
 | CSC 4501    | 10         | 17           | 27              |
 
-**Average waiting time : 7.5
+**Average waiting time : 7.5 <br />
 **Average turnaround time : 14.25
 
 # Conclusion
